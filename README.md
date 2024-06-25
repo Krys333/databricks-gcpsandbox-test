@@ -1,6 +1,6 @@
 ## Setting TEST infrastructure
 
-Link to doc I followed - 
+Link to doc I followed - https://registry.terraform.io/providers/databricks/databricks/latest/docs/guides/gcp-workspace
 > Note: I am assuming you have a GCP CLI set up already and the correct project selected.
 
 I run my infrastructure with a variables file `testing.tfvars`. You need to create one as well.
