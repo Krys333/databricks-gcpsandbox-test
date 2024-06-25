@@ -1,0 +1,12 @@
+# venv
+dbenv/
+
+# terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+
+# misc
+kickoff-notes.md
+testing.tfvars
